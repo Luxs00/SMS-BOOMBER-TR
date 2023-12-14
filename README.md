@@ -24,4 +24,4 @@ Bot'un çalışabilmesi için 'Privileged Gateway Intents' seçeneklerinin hepsi
 
 ÇALMAYIN
 <br><br>
-<a href="" target="_blank"><img src="" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
